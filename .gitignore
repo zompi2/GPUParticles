@@ -1,0 +1,5 @@
+Projects/VS2015/.vs/
+*.db
+Projects/VS2015/_build/
+Projects/VS2015/Output/
+*.suo
