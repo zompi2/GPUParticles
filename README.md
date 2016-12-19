@@ -1,4 +1,8 @@
-# LightShafts
-Initial Commit
+# GPU Particles
 
-Fill it later
+
+Here's a project that presents how to implement a particle emitter which calculates each particle's position and color with compute shader in OpenGL.
+
+Link to the tutorial: http://zompi.pl/gpu-particles/
+
+![](http://zompi.pl/wp-content/uploads/2014/12/Particles-2014-12-02-23-35-58-40.png)
