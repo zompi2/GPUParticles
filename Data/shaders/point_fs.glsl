@@ -1,3 +1,8 @@
+/**
+ * Fragment shader used to draw a single particle point.
+ * (c) 2014 Damian Nowakowski
+ */
+
 #version 400
 
 out vec4 outColor;

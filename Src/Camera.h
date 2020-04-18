@@ -1,12 +1,11 @@
 #pragma once
 
 /**
- * Particles example.
+ * GPU Particles example.
  *
  * This is a camera class. It stores all camera data, update it state
  * and handle camera movement.
  *
- * This file is a part of a project from http://zompi.pl/gpu-particles
  * (c) 2014 Damian Nowakowski
  */
 

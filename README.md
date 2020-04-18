@@ -1,9 +1,23 @@
-# GPU Particles
+GPU Particles
+=====
+This is a project that presents how to implement a gpu simulated particles with OpenGL.
 
-Here's a project that presents how to implement a particle emitter which calculates each particle's position and color with compute shader in OpenGL.
+## How to build
+This project uses CMake to generate build solution.  
+It requires OpenGL to be installed on the building machine.  
+It requires [GLEW](http://glew.sourceforge.net) and [GLFW](https://www.glfw.org) libraries (give CMake paths to their libraries and includes).  
+Data directory must be in the same directory the executable is.  
 
-It requires external libraries to use from here: https://github.com/zompi2/Externals
+## Controls
+Hold **right mouse** button to rotate camera  
+**W/S/A/D** - move camera  
+**Y/H/G/J** - move particles source  
+**I/K** - move particles source up and down
 
-Link to the tutorial: http://zompi.pl/gpu-particles/
+## Configuration
+You can change various settings in Data/config.ini to alter application behaviour like the amount of particles to spawn or forcing CPU calculations.
 
-![](http://zompi.pl/wp-content/uploads/2014/12/Particles-2014-12-02-23-35-58-40.png)
+## More
+You can read more about gpu particles in the blog entry: https://damnow.blogspot.com/2014/12/gpu-particles.html
+
+You can download a working .exe file from here: https://drive.google.com/file/d/16rvR9DObKb9d1kJLrXQ76i3DRNq8g44W

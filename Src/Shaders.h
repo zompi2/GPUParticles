@@ -3,8 +3,6 @@
 *
 * Simple static library for easy loading and compiling shaders.
 *
-* This file is a part of a project from http://zompi.pl/gpu-particles
-*
 * (c) 2014 Damian Nowakowski
 */
 

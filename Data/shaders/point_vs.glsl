@@ -1,6 +1,11 @@
 #version 400
 
 /**
+ * Vertex shader used to draw a single particle point.
+ * (c) 2014 Damian Nowakowski
+ */
+
+/**
 * Use the location the same as in compute shader for
 * easy getting attribute pointers address.
 */

@@ -1,6 +1,11 @@
 #version 400
 
 /**
+ * Vertex shader used to update perticles point location, color and velocity.
+ * (c) 2014 Damian Nowakowski
+ */
+
+/**
 * These are input variables with arranged locations.
 * Others.x = time life left.
 * Others.y = 1-particle was emitted, 0-particle is waiting for it's emission.

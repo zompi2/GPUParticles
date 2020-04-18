@@ -1,10 +1,9 @@
 /**
-* Particles example.
+* GPU Particles example.
 *
 * This is an tweaking bar class that handles the AntTweakBar, initialize it
 * and set up the input.
 *
-* This file is a part of a project from http://zompi.pl/gpu-particles
 * (c) 2014 Damian Nowakowski
 */
 

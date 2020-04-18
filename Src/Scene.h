@@ -1,12 +1,11 @@
 #pragma once
 
 /**
-* Particles example.
+* GPU Particles example.
 *
 * This is a scene class. It contains all elements displaying on the scene
 * like model and light.
 *
-* This file is a part of a project from http://zompi.pl/gpu-particles
 * (c) 2014 Damian Nowakowski
 */
 

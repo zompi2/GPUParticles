@@ -1,12 +1,11 @@
 #pragma once
 
 /**
-* Particles example.
+* GPU Particles example.
 *
 * This is a window class. It creates and handles the window with proper
 * opengl context.
 *
-* This file is a part of a project from http://zompi.pl/gpu-particles
 * (c) 2014 Damian Nowakowski
 */
 

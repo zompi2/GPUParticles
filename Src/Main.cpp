@@ -1,18 +1,17 @@
 /**
- * Particles example.
+ * GPU Particles example.
  *
  * This is the main file of Particles example.
  *
- * This file is a part of a project from http://zompi.pl/gpu-particles
  * (c) 2014
  */
 
 #include "Engine.h"
 
 /**
- * Start the application with no console 
+ * Start the application.
  */
-int __stdcall wWinMain(HINSTANCE hInst, HINSTANCE prevInst, LPWSTR szCmdLine, int nCmdShow)
+int main()
 {
 	// Init application engine so it can run
 	ENGINE_INIT
