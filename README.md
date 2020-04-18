@@ -15,7 +15,7 @@ Hold **right mouse** button to rotate camera
 **I/K** - move particles source up and down
 
 ## Configuration
-You can change various settings in Data/config.ini to alter application behaviour like the amount of particles to spawn or forcing CPU calculations.
+You can change various settings in Data/config.ini to alter such things like the amount of particles to spawn or forcing CPU calculations.
 
 ## More
 You can read more about gpu particles in the blog entry: https://damnow.blogspot.com/2014/12/gpu-particles.html
