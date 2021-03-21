@@ -18,6 +18,6 @@ Hold **right mouse** button to rotate camera
 You can change various settings in Data/config.ini to alter such things like the amount of particles to spawn or forcing CPU calculations.
 
 ## More
-You can read more about gpu particles in the blog entry: https://damnow.blogspot.com/2014/12/gpu-particles.html
+You can read more about gpu particles in the blog entry: https://zompidev.blogspot.com/2014/12/gpu-particles.html
 
 You can download a working .exe file from here: https://drive.google.com/file/d/16rvR9DObKb9d1kJLrXQ76i3DRNq8g44W
